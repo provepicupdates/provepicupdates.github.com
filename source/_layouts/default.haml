@@ -1,0 +1,18 @@
+---
+blog_title: Epic Updates
+author: HH
+---
+
+!!! 1.1 Transitional
+%html(xmlns="http://www.w3.org/1999/xhtml" xml:lang="en")
+
+  = include "head.haml"
+  %body(id="#{(page.respond_to?(:body_id) ? page.body_id : nil)}")
+    #header= include "header.haml"
+    #nav= include "navigation.haml"
+    #page
+      #content
+        #main
+          .content= preserve rp(content)
+        #sidebar= include "sidebar.haml"
+    = include "footer.haml"

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Epic Updates</title>
+  <link href="http://epicupdates.github.com/atom.xml" rel="self" />
+  <link href="http://epicupdates.github.com" />
+  <updated>2011-04-12T17:09:53-07:00</updated>
+  <id>http://epicupdates.github.com</id>
+  <author>
+    <name>Epic Updates</name>
+    <email>epicupdates@example.com</email>
+  </author>
+  <entry>
+    <title>Orientation</title>
+    <link href="http://epicupdates.github.com/updates/2011/04/12/orientation" />
+    <updated>2011-04-12T00:00:00-07:00</updated>
+    <id>http://epicupdates.github.com/updates/2011/04/12/orientation</id>
+    <content type="html">
+      &lt;p&gt;&lt;strong&gt;Yesterday we had an orientation meeting in Seattle&lt;/strong&gt; where we leaned about some of the preparations needed for the Epic implementation. The main thing to pass along from this meeting is the process that will be used to approve order sets which will be integrated into the Epic system.&lt;/p&gt;
+      
+      &lt;h3&gt;Clinical Advancement Teams&lt;/h3&gt;
+      
+      &lt;p&gt;The people responsible for reviewing order sets are members of Clinical Advancement Teams (CATs.) There are 32 CATs that are organized by specialty (Adult Primary Care, Orthopedics, Radiology, etc.)&lt;/p&gt;
+      
+      &lt;blockquote&gt;&lt;p&gt;Clinical Advancement Teams&lt;/p&gt;
+      
+      &lt;ul&gt;
+      &lt;li&gt;Develop common leading clinical practices that are safe, evidence-based, user-friendly, and patient centric&lt;/li&gt;
+      &lt;li&gt;Work with regional and local leaders to facilitate feedback from any interested representative from any site&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/blockquote&gt;
+      
+      &lt;h3&gt;Reviewing An Order Set&lt;/h3&gt;
+      
+      &lt;h4&gt;The Process&lt;/h4&gt;
+      
+      &lt;ol&gt;
+      &lt;li&gt;CAT members will be notified by email when an order set is available. This email will contain a link where the set can be viewed.&lt;/li&gt;
+      &lt;li&gt;Over a given time period, the CATs will scrutinize each order in a set. CAT members will have the ability to make comments on the set as a whole and each individual order. The commenting process is done through &lt;a href=&quot;http://www.zynxhealth.com/&quot;&gt;Zynx&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;After that time, the CAT meets to make recommendations to change, remove, or add an order to the set.&lt;/li&gt;
+      &lt;li&gt;After the orders are updated, they are given back to the CAT for final approval.&lt;/li&gt;
+      &lt;li&gt;The approved order sets are built into the Epic system.&lt;/li&gt;
+      &lt;/ol&gt;
+      
+      
+      &lt;h4&gt;Considerations&lt;/h4&gt;
+      
+      &lt;p&gt;An order is included in a set if it is believed that 80% of the people using the order set will find it useful. Specific things to consider are:&lt;/p&gt;
+      
+      &lt;ul&gt;
+      &lt;li&gt;Patient safety&lt;/li&gt;
+      &lt;li&gt;Best practices&lt;/li&gt;
+      &lt;li&gt;Usability&lt;/li&gt;
+      &lt;li&gt;Efficacy&lt;/li&gt;
+      &lt;li&gt;Cost&lt;/li&gt;
+      &lt;/ul&gt;
+      
+      
+      &lt;h4&gt;Involvement&lt;/h4&gt;
+      
+      &lt;p&gt;CAT members will attempt to get people potentially impacted by the order sets involved in the process when appropriate. These non-CAT participants will have access to the Zynx system to make their personal comments on an order set. (See &#8221;&lt;a href=&quot;http://epicupdates.github.com/using_zynx.html&quot;&gt;Using Zynx&lt;/a&gt;&#8221;.)&lt;/p&gt;
+    </content>
+  </entry>
+</feed>
